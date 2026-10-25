@@ -44,7 +44,7 @@ The objective was to summarise the dataset, compare order and sales patterns, id
 
 ## Conclusion
 
-This project provided practical experience in exploring e-commerce data, comparing business metrics, and presenting findings using Excel. It reinforced the importance of checking data patterns carefully and interpreting results in context.
+This project provided practical experience in exploring e-commerce data, comparing business metrics and presenting findings using Excel. It reinforced the importance of checking data patterns carefully and interpreting results in context.
 
 ## Author
 
